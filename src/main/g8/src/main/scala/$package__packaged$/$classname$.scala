@@ -1,4 +1,4 @@
-package $organization$
+package $package$
 
 import org.slf4j.LoggerFactory
 
