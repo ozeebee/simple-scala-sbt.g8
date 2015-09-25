@@ -1,0 +1,9 @@
+= $name$
+:icons: font
+:source-highlighter: pygments
+:pygments-style: default
+:toc:
+//:toc-position: left
+:toclevels: 4
+
+TODO: Add project description here

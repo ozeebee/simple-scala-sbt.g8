@@ -1,0 +1,29 @@
+= simple-scala-sbt
+:icons: font
+:source-highlighter: pygments
+:pygments-style: default
+:toc:
+//:toc-position: left
+:toclevels: 4
+
+This is a https://github.com/n8han/giter8[giter8^] template to create a _simple_ Scala/SBT project.
+
+== Features
+
+* Standard SBT scala project structure
+* Logging provided with slf4j+logback
+* NO Test (yet)
+* AsciiDoc README file
+
+== How-to
+
+. Install giter8
+	
+	brew update && brew install giter8
+
+. Invoke giter8 with this repo
+
+	g8 ozeebee/simple-scala-sbt.g8
+
+. Customize the various properties
+. Et voilà !
