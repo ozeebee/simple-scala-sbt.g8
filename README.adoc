@@ -17,6 +17,12 @@ This is a https://github.com/n8han/giter8[giter8^] template to create a _simple_
 
 == How-to
 
+=== Using SBT 0.13.13+
+
+  sbt new ozeebee/simple-scala-sbt.g8
+
+=== Using Giter8
+
 . Install giter8
 	
 	brew update && brew install giter8
