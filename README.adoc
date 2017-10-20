@@ -21,6 +21,8 @@ This is a https://github.com/n8han/giter8[giter8^] template to create a _simple_
 
   sbt new ozeebee/simple-scala-sbt.g8
 
+NOTE: This generates a `target` directory in the current working dir !
+
 === Using Giter8
 
 . Install giter8
